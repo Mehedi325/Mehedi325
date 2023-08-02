@@ -18,21 +18,16 @@
 
 - 📫 You can reach me through >> 📧 **mehedimasum2019@gmail.com**
 
-- 💻 Personal Website (Portfolio) >> 🌐 []()
+- 💻 Personal Website (Portfolio) >> 🌐 [https://portfolio-website-mehedi.vercel.app/](https://portfolio-website-mehedi.vercel.app/)
 <br/>  
 
 
-<h3 align="left">Connect With Me:</h3>
-<hr>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://avijit-saha2997.web.app" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/basic-thin-line-color/21/18-512.png" alt="avijitsaha2997" height="35" width="35" /></a>
-    <a href="https://linkedin.com/in/avijitsaha2997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijit-saha-209a491a6" height="30" width="40" /></a>
-    <a href="https://fb.com/wwwhite.angelll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wwwhite.angelll" height="30" width="40" /></a>
-    <a href="https://instagram.com/avijit_saha_yay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avijit_saha_yay" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/avijitsaha2997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avijitsaha2997" height="30" width="40" /></a>
-    <a href="https://discord.gg/whiteangel2997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="whiteangel2997" height="40" width="40" /></a>
-    <a href="https://codepen.io/avijitsaha2997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="avijitsaha2997" height="30" width="40" /></a>
-    </p><br/> 
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehedi325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehedi325/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mehedi.masum1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mehedi.masum1997" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/masum_2468/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/masum_2468/" height="30" width="40" /></a>
+</p><br/> 
 
 
 <h3 align="left">Languages And Tools:</h3>
