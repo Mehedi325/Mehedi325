@@ -92,7 +92,8 @@
 
 <h3 align="left">Work Experiences And Interests:</h3>
 <hr>
-<p align="left">As a front-end web developer, I am passionate about crafting immersive and user-friendly digital experiences.   
+<p align="left">I have worked in front-end web development for six months at 'Ever Green Product Factory LTD (BD) Company Nilphamari.
+        As a front-end web developer, I am passionate about crafting immersive and user-friendly digital experiences.   
         With a strong foundation in HTML, CSS, and JavaScript, I strive to create visually appealing and responsive 
         websites that engage and delight users.
         My expertise lies in translating design concepts into functional and interactive interfaces, ensuring seamless 
