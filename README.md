@@ -111,10 +111,10 @@
  
  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avijitsaha2997&theme=dark" alt="avijitsaha2997" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avijitsaha2997&theme=dark" alt="Mehedi325" /></p>
 
     
 ---
     😇😇😇
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=avijitsaha2997&label=Profile%20views&color=000000&style=for-the-badge" alt="avijitsaha2997" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=avijitsaha2997&label=Profile%20views&color=000000&style=for-the-badge" alt="Mehedi325" /> </p>
 </div>
