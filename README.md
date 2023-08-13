@@ -18,7 +18,7 @@
 
 - 📫 You can reach me through >> 📧 **mehedimasum2019@gmail.com**
 
-- 💻 Personal Website (Portfolio) >> 🌐 [https://portfolio-website-mehedi.vercel.app/](https://portfolio-website-mehedi.vercel.app/)
+- 💻 Personal Website (Portfolio) >> 🌐 [https://portfolio-website-mehedi.vercel.app/](https://about-my-portfolio.vercel.app/)
 <br/>  
 
 
