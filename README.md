@@ -1,5 +1,5 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-<h1 align="center">Hi 👻, I'm Mehedi </h1>
+<h1 align="center">Hi,There I'm Mehedi </h1>
 <h3 align="center">A passionat Front-end web developer from Bangladesh.</h3>
 <img align="right" alt="Coding" height="auto" width="380" src="https://media2.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=511a814e9eji5f1rlbqici4m9cwtrrahn3mhb9ebet3yxpq4&rid=giphy.gif&ct=s">
 
